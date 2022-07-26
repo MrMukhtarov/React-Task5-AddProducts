@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 30px;
+}
+.link1{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 20px;
+}
+.btn{
+    color: #fff !important;
+}
+img{
+    width: 100%;
+    object-fit: cover;
+}
